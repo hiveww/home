@@ -2,7 +2,7 @@
   "/api/v1/": {
   "target": "http://10.0.1.24",
     "pathRewrite": {
-      "^/api/v1": "/api/v1"
+      "^/api/v1": ""
     },
     "secure": false
 }
